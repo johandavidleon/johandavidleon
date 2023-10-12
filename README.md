@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo johan david leon basto</h1>
-<h3 align="center">soy un desarrollador apasionadom India</h3>
+<h3 align="center">soy un desarrollador apasionado</h3>
 
 - 📫 How to reach me **leonbastoj@gmail.com**
 
